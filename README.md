@@ -2,9 +2,7 @@
 
 Interactive practice modules, cheat sheets, and command documentation.
 
-## 01 - Git Mastery & Best Practices
-Essential global identity, credential helpers, line-ending hygiene, and productivity aliases directly from Git documentation.
-
+## 01 - Master Git by Reading Manuals
 ### Configure Global User Identity
 Establishes your author identity recorded permanently into every commit object SHA you create.
 ```bash
