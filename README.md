@@ -8,8 +8,8 @@ Essential global identity, credential helpers, line-ending hygiene, and producti
 ### Configure Global User Identity
 Establishes your author identity recorded permanently into every commit object SHA you create.
 ```bash
-git config --global user.name "Joshua Palero"
-git config --global user.email "joshuapalero111@gmail.com"
+git config --global user.name "Joshua Maddie"
+git config --global user.email "joshuamaddie@gmail.com"
 ```
 
 ### Check Out Hotfix Branch in Parallel Directory (Git Worktree)
