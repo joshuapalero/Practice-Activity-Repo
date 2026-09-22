@@ -3,6 +3,7 @@
 Interactive practice modules, cheat sheets, and command documentation.
 
 ## 01 - Master Git by Reading Manuals
+Practice Git by applying established best practices and proven patterns from online resources. The official documentation is always available for reference and further study.
 ### Configure Global User Identity
 Establishes your author identity recorded permanently into every commit object SHA you create.
 ```bash
