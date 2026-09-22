@@ -1,4 +1,4 @@
-# Practice Activity Repository
+# Practice Activity Repository.
 
 Interactive practice modules, cheat sheets, and command documentation.
 
