@@ -1,6 +1,5 @@
 # Practice Activity Repository.
-
-Interactive practice modules, cheat sheets, and command documentation.
+(subtitle):"Practical preparation and best practices for effective learning and skill-building."
 
 ## 01 - Master Git by Reading Manuals
 Practice Git by applying established best practices and proven patterns from online resources. The official documentation is always available for reference and further study.
